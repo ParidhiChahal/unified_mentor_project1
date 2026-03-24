@@ -1,4 +1,4 @@
-# unified_mentor_project1
+# nassau-candy-profitability-analysis
 
 📊 Nassau Candy Profitability & Cost Analysis Dashboard
 
